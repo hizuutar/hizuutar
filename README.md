@@ -8,10 +8,9 @@
 <br/>
 <br/>
   
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hizuutar&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hizuutar&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
-<br/> -->
-![GitHub Stats](https://streak-stats.demolab.com?user=hizuutar&theme=graywhite&hide_border=true)
+![](https://github-readme-stats.shion.dev/api?username=hizuutar&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=hizuutar&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hizuutar&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <img src="./assets/imagefull.jpg" width="300" align="right" />
 <br/>
