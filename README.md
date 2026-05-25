@@ -27,7 +27,7 @@
 <br/>
 <br/>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/894150433864552480?theme=light&bg=f8dde4&animated=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/894150433864552480)
+[![Discord Presence](https://lanyard.cnrad.dev/api/894150433864552480?theme=light&bg=f8dde4&animated=false&borderRadius=30px&idleMessage=enjoying...)](https://discord.com/users/894150433864552480)
   
 <!-- - [***FaceBook***](https://www.facebook.com/hizutarfake/) <br/>
 - [***CodeinGame***](https://www.codingame.com/profile/30bcc7f5764ad67ca7ffd9298911d5a04610346) <br/> -->
