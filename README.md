@@ -3,14 +3,15 @@
 <img src="./assets/image.png" width="300" align="right" />
 <br/>
 <br/>
-<img src="./assets/banner.jpg" width="500" />
+<img src="./assets/banner.png" width="500" />
 <br/>
 <br/>
 <br/>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hizuutar&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=hizuutar&theme=material-palenight&hide_border=true)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hizuutar&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hizuutar&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hizuutar&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
+<br/>
+![GitHub Stats](https://streak-stats.demolab.com?user=hizuutar&theme=graywhite&hide_border=true)
 
 <img src="./assets/imagefull.jpg" width="300" align="right" />
 <br/>
