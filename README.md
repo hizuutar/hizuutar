@@ -8,9 +8,9 @@
 <br/>
 <br/>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hizuutar&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hizuutar&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hizuutar&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
-<br/>
+<br/> -->
 ![GitHub Stats](https://streak-stats.demolab.com?user=hizuutar&theme=graywhite&hide_border=true)
 
 <img src="./assets/imagefull.jpg" width="300" align="right" />
