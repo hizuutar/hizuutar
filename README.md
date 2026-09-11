@@ -1,6 +1,6 @@
 # vesta ~ cybersecurity
 <div>
-<img src="./assets/image.png" width="300" align="right" />
+<img src="./assets/ptit.png" width="300" align="right" />
 <br/>
 <br/>
 <img src="./assets/banner.png" width="500" />
