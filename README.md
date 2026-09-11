@@ -3,7 +3,7 @@
 <img src="./assets/ptit.png" width="300" align="right" />
 <br/>
 <br/>
-<img src="./assets/banner.png" width="500" />
+<img src="./assets/bannerptit.jpg" width="500" />
 <br/>
 <br/>
 <br/>
